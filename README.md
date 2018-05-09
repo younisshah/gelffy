@@ -60,7 +60,7 @@ docker run -p IN_PORT:OUT_PORT --rm --log-driver=gelf --log-opt gelf-address=udp
 
 That's it!
 
-Now all the logs of your Docker container (or Docker Swarm service) will be pushed to gelffy which POSTs the to Loggly.
+Now all the logs of your Docker container (or Docker Swarm service) will be pushed to gelffy which POSTs to Loggly.
 
 ### TODOs
 - [ ] Support additional drivers
