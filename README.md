@@ -63,7 +63,7 @@ That's it!
 Now all the logs of your Docker container (or Docker Swarm service) will be pushed to gelffy which POSTs the to Loggly.
 
 ### TODOs
-[x] Support additional drivers
+- [x] Support additional drivers
 
 
 #### License
